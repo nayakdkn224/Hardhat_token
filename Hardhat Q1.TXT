@@ -1,0 +1,4 @@
+1) Mention the differences between Hardhat and Truffle. 
+
+Ans :-  Hardhat: it is fast  for Migration Process , less Gas use  and good as compered to Truffle .
+              Truffle :-  it is slow Migration Process , High Gas Use , and not good as compered  Hardhat .
