@@ -1,0 +1,17 @@
+{
+  "name": "hardhat_token",
+  "version": "1.0.0",
+  "description": "this is the one project for Token Sharing ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepak nayak",
+  "license": "ISC",
+  "dependencies": {
+    "hardhat": "^2.22.5"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
